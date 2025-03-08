@@ -30,4 +30,4 @@ A simple GUI application built with Python and `tkinter` to track job applicatio
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/FrankJohnson-cyber/job_hunt_tracker.git
-   cd job-tracker
+   cd job_hunt_tracker
