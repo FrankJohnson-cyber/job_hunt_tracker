@@ -1,4 +1,4 @@
-# Josh's Job Tracker
+# Job Hunt Tracker
 
 A simple GUI application built with Python and `tkinter` to track job applications. It allows users to input job details, save them to an Excel file, and includes a clickable image linking to a webpage.
 
