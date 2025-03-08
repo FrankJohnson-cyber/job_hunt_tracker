@@ -151,4 +151,4 @@ if os.path.exists(image_path):
 else:
     print("Image file not found at the specified path")
 
-root.mainloop():
+root.mainloop()
